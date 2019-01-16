@@ -1,2 +1,5 @@
-# libretg
-The libretg project
+# The libretg project
+
+## Project status
+
+Inception
